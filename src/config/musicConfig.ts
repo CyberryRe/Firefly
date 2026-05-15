@@ -53,7 +53,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				name: "空白とカタルシス",
 				artist: "トゲナシトゲアリ (TOGENASHI TOGEARI)",
 				url: "/assets/music/空白とカタルシス.ogg",
-				cover: "/assets/music/cover/空白とカタルシス.jpg",
+				cover: "/assets/music/cover/空白とカタルシス-Single-600_compressed.jpg",
 				lrc: "",
 			},
 		],
