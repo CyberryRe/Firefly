@@ -1,7 +1,7 @@
 ---
 title: 考研数学笔记：函数与极限Part 01
 published: 2026-05-14
-desperation: 今天做题时遇到了一些问题，特此总结
+description: 今天做题时遇到了一些问题，特此总结
 tags: [考研, 数学, 笔记]
 category: 考研
 draft: false

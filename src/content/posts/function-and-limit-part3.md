@@ -1,7 +1,7 @@
 ---
 title: 考研数学笔记：函数与极限Part 03
 published: 2026-05-16
-desperation: 继续做题，继续总结
+description: 继续做题，继续总结
 tags: [考研, 数学, 笔记]
 category: 考研
 draft: false

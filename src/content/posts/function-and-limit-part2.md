@@ -1,7 +1,7 @@
 ---
 title: 考研数学笔记：函数与极限Part 02
 published: 2026-05-15
-desperation: 今天继续极限部分的易错题，发现了一些之前理解不到位的地方
+description: 今天继续极限部分的易错题，发现了一些之前理解不到位的地方
 tags: [考研, 数学, 笔记]
 category: 考研
 draft: false
